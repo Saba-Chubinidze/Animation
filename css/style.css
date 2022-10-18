@@ -178,6 +178,7 @@ li:hover{
     top: 80%;
 }
 .ball{
+    height: 300px;
     position: absolute;
     top: 29%;
     animation-name: snail;
@@ -200,7 +201,7 @@ li:hover{
         left: 75%;
     }
     100%{
-        left: 78%;
+        left: 87%;
     }
     
 }
