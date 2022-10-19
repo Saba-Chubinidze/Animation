@@ -45,10 +45,10 @@ body{
 @keyframes circle{
     from {
         background-color: yellow;
-        opacity: 0%;
+        opacity: 100%;
     }
     to {
-        opacity: 100%;
+        opacity: 0%;
     }
 }
 .p{
